@@ -1,6 +1,6 @@
-Nombae,Fecha de Nacimiento,Municipio_de_residencia
+Nombre,Fecha_de_Nacimiento,Municipio de residencia
 Juan,1999,Bello
 Pedro,1980,Bucaramanga
 Marta,2001,Medellin
 Armando,2007,Pereira
-Lina,1976,Cali
+Valentina,1986,Bogota
